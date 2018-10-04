@@ -12,7 +12,7 @@ public class AnnieNerExample {
   static ArrayList<String> PossibleQues=new ArrayList<String>();  
    
   static Iterator itr;
-  static String question="abbas muhammad is a student in America";
+  static String question="obama is from America";
  
   public static void main(String[] args) throws Exception{
      GateNE gateNe = new GateNE();
